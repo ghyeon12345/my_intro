@@ -1,5 +1,5 @@
 /* 초기화 */
-:root { --ink:#17232c; --muted:#68737b; --line:#d9e1de; --paper:#f7f8f4; --mint:#b8dfd2; --coral:#ef876d; }
+:root { --ink:#17232c; --muted:#2f1f8b; --line:#d9e1de; --paper:#f7f8f4; --mint:#e2d9f7; --coral:#104d2b; }
 * { box-sizing:border-box; }
 html { scroll-behavior:smooth; }
 body { margin:0; color:var(--ink); background:var(--paper); font-family:"Noto Sans KR",sans-serif; }
