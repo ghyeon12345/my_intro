@@ -19,7 +19,7 @@ new Swiper('.gallery-swiper', {
 const $btn = document.getElementById("introButton")
 $btn.addEventListener("click", function() {
     Swal.fire({
-    title: '김개발의 한마디',
+    title: '김가현의 한마디',
     text: '매일 한 걸음씩, 더 나은 사용자 경험을 만들고 있습니다.',
     icon: 'info',
     confirmButtonText: '확인',
